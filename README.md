@@ -2,9 +2,8 @@ DorasuGamejamTmplate
 ====================
 
 ドラスゲームジャム説明用のリポジトリ
-
-[WEBで遊ぶ](http://rytmrt.github.io/DorasuGamejamTemplate/)
-[Android端末で遊ぶ](https://github.com/rytmrt/)
+[WEBで確認](`http://rytmrt.github.io/DorasuGamejamTmplate/)
+[READMEをダンロード](https://github.com/rytmrt/DorasuGamejamTmplate/releases)
 
 
 ゲーム画面
