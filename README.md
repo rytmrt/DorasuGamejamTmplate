@@ -2,8 +2,9 @@ DorasuGamejamTmplate
 ====================
 
 ドラスゲームジャム説明用のリポジトリ
-[WEBで確認](`http://rytmrt.github.io/DorasuGamejamTmplate/)
-[READMEをダンロード](https://github.com/rytmrt/DorasuGamejamTmplate/releases)
+
+- [WEBで確認](http://rytmrt.github.io/DorasuGamejamTmplate/)
+- [READMEをダンロード](https://github.com/rytmrt/DorasuGamejamTmplate/releases)
 
 
 ゲーム画面
